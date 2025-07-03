@@ -23,7 +23,7 @@ This project presents an interactive Excel dashboard built to analyze hotel book
 
 ## 📸 Dashboard
 
-![Dashboard Preview](assets/dashboard_screenshot.png)
+![Dashboard Preview](assets/Screenshot 2025-01-01 042454.png)
 
 ---
 
